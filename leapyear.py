@@ -1,5 +1,7 @@
-year = int(input(""))
-if year%4==0 :
-	print("is a leap year")
-elif year%100==0:
-	print("is not a leap year")
+year=int(raw_input())
+if(year%4==0):
+	print("yes")
+elif(year%400=0):
+	print("yes")
+else:
+	print("no")
