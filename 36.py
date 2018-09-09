@@ -1,4 +1,4 @@
-name=raw_input("enter the string)
+name=raw_input()
 count=0
 for i in name:
     if(i.isspace()):
