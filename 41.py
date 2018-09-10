@@ -1,4 +1,3 @@
-name=str(raw_input())
-n=int(raw_input())
-for i in range(n):
-    print (name)
+n,m=map(str,raw_input().split())
+for i in range(0,int(m)):
+    print n
