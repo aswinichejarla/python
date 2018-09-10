@@ -1,5 +1,5 @@
 n=int(raw_input())
 list=[int(x) for x in raw_input().split()]
-a=max(list)
-b=min(list)
+a=min(list)
+b=max(list)
 print a,b
