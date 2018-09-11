@@ -1,7 +1,7 @@
-n=int(raw_input())
+m=int(raw_input())
 a=[]
 while(n>0):
     dig=n%10
     a.append(dig)
-    n=n//10
+    m=m//10
 print sum(a)
