@@ -12,5 +12,5 @@ def switch_demo(argument):
         10: "Ten"
     }
     print switcher.get(argument, "Invalid Input")
-n=int(raw_input())
-switch_demo(n)
+m=int(raw_input())
+switch_demo(m)
