@@ -1,8 +1,8 @@
-n=int(raw_input())
+p=int(raw_input())
 count=0
-if n>1:
-    for i in range(2,n):
-        if n%i==0:
+if p>1:
+    for i in range(2,p):
+        if p%i==0:
             count=count+1
 if count>1:
     print "yes"
