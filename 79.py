@@ -1,6 +1,6 @@
 import math
-a,b=map(int,raw_input().split())
-c=a * b
+p,q=map(int,raw_input().split())
+c=p * q
 if math.sqrt(c).is_integer():
     print "yes"
 else:
