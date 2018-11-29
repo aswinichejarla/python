@@ -1,2 +1,2 @@
-str=raw_input()
-print ord(str)
+str1=raw_input()
+print ord(str1)
