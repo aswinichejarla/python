@@ -1,3 +1,3 @@
-n=raw_input()
-print n[0::2],
-print n[1::2]
+m=raw_input()
+print m[0::2],
+print m[1::2]
