@@ -1,6 +1,6 @@
 package data;
 import java.util.*;
-class RomanNumber {
+public class RomanNumber {
 	public static void main(String []args) {
 		Scanner scan=new Scanner(System.in);
 		String s=scan.next();
