@@ -1,2 +1,2 @@
-b=str(raw_input())
-print b[::-1]
+x=str(raw_input())
+print x[::-1]
